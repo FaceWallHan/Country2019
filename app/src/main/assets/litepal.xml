@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <version value="1"/>
+    <dbname value="Country"/>
+    <list>
+        <mapping class="com.end.summer.bean.sql.SqlCheck"/>
+        <mapping class="com.end.summer.bean.sql.SqlHistory"/>
+        <mapping class="com.end.summer.bean.sql.SqlUser"/>
+    </list>
+</litepal>
